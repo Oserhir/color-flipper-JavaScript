@@ -1,3 +1,3 @@
 # color-flipper 
  
-Live URL :- https://color-flipperjs.netlify.app/
+Live URL :- https://oserhirdev.github.io/modal-js/
