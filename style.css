@@ -1,0 +1,40 @@
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 600px;
+}
+
+.color {
+  color: hsl(205, 78%, 60%);
+}
+
+.cotainer {
+  text-align: center;
+}
+
+.cotainer h2 {
+  font-size: 40px;
+  background-color: #222;
+  color: white;
+  padding: 10px 60px;
+  border-radius: 5px;
+}
+
+.btn-hero {
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  background: transparent;
+  color: #222;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  border-radius: 1px;
+  font-size: 1rem;
+  padding: 15px 50px;
+}
+
+.btn-hero:hover {
+  color: #fff;
+  background: #222;
+}
